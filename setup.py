@@ -7,7 +7,7 @@ import setuptools
 setuptools.setup(
       name="paquete_suma_resta2",
       version="1.0.0",
-      description="ejemplo de setup inicial",
+      description="ejemplo de setup inicial2",
       author="mp",
       author_email="mp@mp.com.ar",
       url="www.sarasa.com.ar",
